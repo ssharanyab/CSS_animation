@@ -1,4 +1,4 @@
-# CSS_animation
+# Smiley Animation 1
 
  ![Demo](Smileyanimation.gif)
  
